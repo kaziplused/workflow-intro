@@ -8,7 +8,7 @@ Kazi+ Ed uses Github to manage the whole learning worflow. We mainly make use of
 - Each drill or checkpoint will be given out as a **Github issue**.
 - For each issue (for example [this](https://github.com/kaziplused/workflow-intro/issues/1)), create a branch thus:
   
-  `<issue-number>-issue-tittle> e.g. 1-hr-arraysum` for the first issue on this repo.
+  `<issue-number>-issue-tittle> e.g. drill-0-arraysum` for the first issue on this repo.
   
 - Your solutions should be put in a folder named `issue-<number>` (number padded with 0's) e.g. `issue-001`
 - Work out your solution from the branch, then commit changes and push.
